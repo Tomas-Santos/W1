@@ -1,0 +1,7 @@
+﻿Intended learning outcomes (knowledge, skills and competences)
+
+Know the technologies used in digital games and multimedia;
+Understand the process of producing a digital game or a multimedia product;
+To be able to create a 2D game, through all its stages, from conception, to implementation and test;
+To be able to create a 3D game, through all its stages, from conception, to implementation and test;
+Getting to work with professionals, knowing their digital tools.

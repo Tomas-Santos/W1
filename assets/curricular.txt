@@ -1,0 +1,37 @@
+﻿Drawing
+Game Design
+Introduction to Programming
+Principles of Mathematics for Games
+Digital Image
+English
+
+Game Programming
+2D Art I
+Principles of Animation
+User Interface Design
+2D Game Project
+
+3D Modeling
+Visual Effects for Games
+Game Engine I
+Web Development
+Sound Design
+
+Photography and Video
+3D Simulation and Animation
+Multimedia Interaction Techniques
+3D Game Project
+Game Engine II (Option I - choose 1 of 2)
+3D Production (Option I - choose 1 of 2)
+
+Cinema (Option II - choose 5 of 7)
+2D Art II (Option II - choose 5 of 7)
+Visual Effects for Cinema (Option II - choose 5 of 7)
+3D Art (Option II - choose 5 of 7)
+Computer Graphics (Option II - choose 5 of 7)
+Advanced Topics on Game Programming (Option II - choose 5 of 7)
+Artificial Intelligence Applied to Games (Option II - choose 5 of 7)
+
+Entrepreneurship and Marketing Applied to Entertainment
+Internship (Option III - choose 1 of 2)
+Final Project (Option III - choose 1 of 2)
